@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BackendlessSetup</string>
+    <string name="hint_username">enter your username</string>
+    <string name="hint_password">enter your password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_create">Create Account</string>
+    <string name="btn_reset">Reset Password</string>
 </resources>
