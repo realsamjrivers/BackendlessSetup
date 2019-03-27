@@ -5,4 +5,9 @@
     <string name="btn_login">Login</string>
     <string name="btn_create">Create Account</string>
     <string name="btn_reset">Reset Password</string>
+    <string name="hint_name">enter your name</string>
+    <string name="hint_surname">enter your surname</string>
+    <string name="hint_email">enter your email address</string>
+    <string name="hint_re_password">re-enter your password</string>
+    <string name="create_account">Create Account</string>
 </resources>
